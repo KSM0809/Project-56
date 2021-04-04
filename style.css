@@ -1,0 +1,23 @@
+body {
+    background-color: azure;
+    text-align: center;
+    font-family: fantasy;
+    font-variant: small-caps;
+    color: cornflowerblue;
+    font-size: 40px;
+}
+
+img {
+    width: 80%;
+}
+
+div {
+    margin-top: 20px;
+}
+
+h4{
+    font-family: monospace;
+    color: darkblue;
+    font-variant: normal;
+    font-size: 20px;
+}
